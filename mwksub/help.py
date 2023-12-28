@@ -42,7 +42,7 @@ def map(pos):
             [InlineKeyboardButton(text = '-->', callback_data = "help+2")]
         ]
     elif(pos==len(tr.HELP_MSG)-1):
-        url = "/issues/new"
+        url = "https://github.com/VMTY1/FSUB-Malayalam/issues/new"
         button = [
                    [
                       InlineKeyboardButton(
