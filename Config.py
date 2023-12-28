@@ -16,7 +16,7 @@ class Config():
     APP_ID = ""
     API_HASH = ""
     SUDO_USERS = list(set(int(x) for x in ''.split()))
-    SUDO_USERS.append(749673781)
+    SUDO_USERS.append(6307901985)
     SUDO_USERS = list(set(SUDO_USERS))
 
 
@@ -33,12 +33,12 @@ class Messages():
         
         "**Commmands**\n__/FSub - നിലവിലെ settings ലഭിക്കാൻ.\n/FSub no/off/disable - ForceSubscribe ഓഫ് ആക്കുവാൻ.\n/fsub {channel username} - നിർധിഷ്ട്ട ചാനലിൽ Force Sub Enable ആക്കാൻ.\n/FSub clear - ഞാൻ മ്യുട്ട് ചെയ്ത എല്ലാവരേം അണ്മ്യുട്ട് ആക്കുവാൻ.\n\nശ്രദ്ദിക്കുക: /Forcesubscribe is an alias of /FSub__",
         
-        "**Developed by @Shamilnelli**"
+        "**Developed by @M_MOVIES_23 𓅥**"
       ]
 
       START_MSG = """
       **Hey [{}](tg://user?id={})**\n__Hello,
-This is a Malayalam Version Force Subscriber Bot by @shamilnelli 😇
+This is a Malayalam Version Force Subscriber Bot by @M_MOVIES_23 😇
 
 Hit /help for more details.. and more thing waiting for u there__ 😉
 """
