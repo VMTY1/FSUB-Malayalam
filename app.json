@@ -8,9 +8,9 @@
     "Force Subscribe",
     "Promoter"
   ],
-  "website": "https://github.com/shamilhabeebnelli",
-  "repository": "https://github.com/shamilhabeebnelli/FSUB-Malayalam",
-  "logo": "https://telegra.ph/file/9be7ca252a701affd2629.jpg",
+  "website": "https://github.com/VMTY1/FSUB-Malayalam",
+  "repository": "https://github.com/VMTY1/FSUB-Malayalam",
+  "logo": "https://telegra.ph/file/b162854fda7d652373639.jpg",
   "env": {
     "BOT_TOKEN": {
       "description": "Your bot token, Get it from @Botfather.",
@@ -51,7 +51,7 @@
   "formation": {
     "worker": {
       "quantity": 1,
-      "size": "free"
+      "size": "eco"
     }
   }
 }
