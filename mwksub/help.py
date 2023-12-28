@@ -42,16 +42,16 @@ def map(pos):
             [InlineKeyboardButton(text = '-->', callback_data = "help+2")]
         ]
     elif(pos==len(tr.HELP_MSG)-1):
-        url = "https://github.com/shamilhabeebnelli/fsub-Malayalam/issues/new"
+        url = "/issues/new"
         button = [
                    [
                       InlineKeyboardButton(
-                                         text = 'Support Chat', url="https://t.me/redbullfed"),
+                                         text = 'Support Chat', url="https://t.me/mallumovies_1"),
             InlineKeyboardButton(
-                text = 'Updates Channel', url="https://t.me/mwklinks")
+                text = 'Updates Channel', url="https://t.me/M_MOVIES_23")
                  ],[
                      InlineKeyboardButton(
-                                      text = 'Developer', url="https://t.me/shamilnelli"),
+                                      text = 'Developer', url="https://t.me/Malayali_No2"),
             InlineKeyboardButton(text = '<--', callback_data = f"help+{pos-1}")
             ]
         ]
